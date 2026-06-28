@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 secret_code = 42
 max_attempts = 3
 attempts = 0

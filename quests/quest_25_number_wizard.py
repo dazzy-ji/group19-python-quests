@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 number = 7
 max_attempts = 5
 attempts = 0
