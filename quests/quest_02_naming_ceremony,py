@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+# Quest 2: The Naming Ceremony
+
+hero_name = "Aeloria"
+superpower = "Chronomancy (Time Manipulation)"
+
+print("Introducing the legendary hero, " + hero_name + "! Armed with the extraordinary power of " + superpower + ".")
