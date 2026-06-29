@@ -4,4 +4,4 @@
 hero_name = "Aeloria"
 superpower = "Chronomancy (Time Manipulation)
 
-print("Introduction the legendary hero, " + hero_name + "! Armed with the exraordinary power of " + superpower + " .")
+print("Introduction the legendary hero, " + hero_name + "! Armed with the exraordinary power of " + superpower + " .)
